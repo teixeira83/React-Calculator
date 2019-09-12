@@ -10,6 +10,8 @@
 
 > a calculator made in react
 
+<img src="https://github.com/teixeira83/React-Calculator/blob/master/src/imgs/exemplo-calc.png" alt="Imagem exemplo" style="max-width:100%;">
+
 ### 🏠 [Homepage](https://github.com/teixeira83/React-Calculator)
 
 ## Prerequisites
