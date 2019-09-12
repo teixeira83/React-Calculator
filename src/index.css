@@ -17,3 +17,12 @@ body {
   color:#fff;
   background: linear-gradient(to right, rgb(83,105,118), rgb(41,46,73))
 }
+
+.react-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 25vmin;
+  pointer-events: none;
+  justify-content: center;
+  align-items: center;
+  
+}
